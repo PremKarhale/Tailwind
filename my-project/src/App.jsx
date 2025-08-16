@@ -22,7 +22,7 @@ function App() {
         <div className='p-0.5'></div>
       </div>
       <div className='flex justify-center mx-auto'>
-      <button className='bg-amber-600 w-[14dvw] hover:bg-orange-300 md:text-green-600 sm:text-red-500 rounded-[15px] p-1 shadow-lg text-black font-medium'>Buy now </button>
+      <button className='bg-black-300 w-[14dvw] hover:bg-blue-300 md:text-pink-600 sm:text-red-500 rounded-[15px] p-1 shadow-lg text-black font-medium'>Buy now </button>
       </div>
 
     </div>
